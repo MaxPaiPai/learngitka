@@ -3,4 +3,8 @@ It is designed for learning purpose
 --New Line--
 Git tracks changes/ editions, not files.
 Created a new branch!
-Working on a branch is encouraged. :)))
+<<<<<<< HEAD
+Working on a branch is encouraged. :)
+=======
+Working on a branch is encouraged. :)
+>>>>>>> feature1
