@@ -4,5 +4,5 @@ It is designed for learning purpose
 Git tracks changes/ editions, not files.
 Created a new branch!
 Working on a branch is encouraged. :)
->>>>>>>
+++++++++
 
